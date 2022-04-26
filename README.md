@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Polycarp29
 - 👀 I’m interested in Penetration Testing and Software Development 
-- 💞️ I’m looking to collaborate on any available and sesnible project 
+- 💞️ I’m looking to collaborate on any available and promising project 
 - 📫 How to reach me  email:fb.admin87@protonmail.com
 
 <!---
