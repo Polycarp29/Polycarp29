@@ -10,7 +10,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="flutter" width= "45" height="45">
 <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-512.png" alt="FireBase" width= "45" height="45">
-<img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" alt="FireBase" width= "45" height="45">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" alt="MySQL" width= "45" height="45">
 </p>
 <!---
 Polycarp29/Polycarp29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
