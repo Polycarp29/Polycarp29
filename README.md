@@ -9,6 +9,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img src="https://flutterawesome.com/content/images/2018/11/flutter_svg.jpg" alt="flutter" width= "45" height="45">
 </p>
 <!---
 Polycarp29/Polycarp29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
