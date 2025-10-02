@@ -15,6 +15,8 @@ https://img.shields.io/badge/%F0%9F%93%B1-Mobile%2520Security-green
 https://img.shields.io/badge/%E2%98%81%EF%B8%8F-Cloud%2520Security-orange
 
 </div>
+
+<table> <tr> <td align="center"> <strong>🔐 Security Research</strong><br> Open source security tools<br> Vulnerability research </td> <td align="center"> <strong>💻 Secure Development</strong><br> Security-first applications<br> Code review & auditing </td> <td align="center"> <strong>🚀 Automation</strong><br> Security scripts<br> Pentesting automation </td> </tr> </table>
 </div>
 
 
