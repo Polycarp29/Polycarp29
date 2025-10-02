@@ -6,6 +6,15 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=Polycarp29&layout
 <table> <tr> <td align="center" width="96"> <img src="https://cdn-icons-png.flaticon.com/512/6002/6002383.png" width="48" height="48" alt="Pentesting" /> <br>Pen Testing </td> <td align="center" width="96"> <img src="https://cdn-icons-png.flaticon.com/512/3063/3063795.png" width="48" height="48" alt="Web Security" /> <br>Web Security </td> <td align="center" width="96"> <img src="https://cdn-icons-png.flaticon.com/512/8886/8886973.png" width="48" height="48" alt="Vulnerability" /> <br>Vulnerability<br>Assessment </td> <td align="center" width="96"> <img src="https://cdn-icons-png.flaticon.com/512/9932/9932015.png" width="48" height="48" alt="Network Security" /> <br>Network<br>Security </td> </tr> </table>
 
   <table> <tr> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" /> <br>Bash </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" /> <br>PHP </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /> <br>Python </td> <td align="center" width="96"> <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-512.png" width="48" height="48" alt="Firebase" /> <br>Firebase </td> <td align="center" width="96"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" width="48" height="48" alt="MySQL" /> <br>MySQL </td> </tr> </table>
+
+
+  <div align="center">
+https://img.shields.io/badge/%F0%9F%94%8D-Advanced%2520Penetration%2520Testing-red
+https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F-Secure%2520SDLC-blue
+https://img.shields.io/badge/%F0%9F%93%B1-Mobile%2520Security-green
+https://img.shields.io/badge/%E2%98%81%EF%B8%8F-Cloud%2520Security-orange
+
+</div>
 </div>
 
 
