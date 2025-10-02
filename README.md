@@ -5,14 +5,14 @@
 
 <div align="center">
 
-### 🔒 Passionate About Securing the Digital World
+###  Passionate About Securing the Digital World
 
 💡 Focused on **Offensive Security, Secure Development, and Automation**  
 ⚡ Always exploring **emerging threats, vulnerabilities, and defense strategies**  
 
 ---
 
-### 🛡️ Core Security Domains
+###  Core Security Domains
 <table>
   <tr>
     <td align="center" width="120">
@@ -36,7 +36,7 @@
 
 ---
 
-### ⚙️ Tech Stack & Tools
+###  Tech Stack & Tools
 <table>
   <tr>
     <td align="center" width="96">
@@ -59,7 +59,7 @@
 
 ---
 
-### 🎯 Specializations
+###  Specializations
 <div align="center">
 
 ![Penetration Testing](https://img.shields.io/badge/%F0%9F%94%8D-Advanced%20Penetration%20Testing-red?style=for-the-badge)
@@ -94,7 +94,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Polycarp29&theme=radical&border_radius=10" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Polycarp29&show_icons=true&theme=radical" height="150"/>
@@ -106,7 +106,7 @@
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
