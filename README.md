@@ -5,3 +5,6 @@ https://github-readme-stats.vercel.app/api?username=Polycarp29&show_icons=true&t
 https://github-readme-stats.vercel.app/api/top-langs/?username=Polycarp29&layout=compact&theme=radical -->
 
 </div>
+
+
+<table> <tr> <td align="center" width="96"> <img src="https://cdn-icons-png.flaticon.com/512/6002/6002383.png" width="48" height="48" alt="Pentesting" /> <br>Pen Testing </td> <td align="center" width="96"> <img src="https://cdn-icons-png.flaticon.com/512/3063/3063795.png" width="48" height="48" alt="Web Security" /> <br>Web Security </td> <td align="center" width="96"> <img src="https://cdn-icons-png.flaticon.com/512/8886/8886973.png" width="48" height="48" alt="Vulnerability" /> <br>Vulnerability<br>Assessment </td> <td align="center" width="96"> <img src="https://cdn-icons-png.flaticon.com/512/9932/9932015.png" width="48" height="48" alt="Network Security" /> <br>Network<br>Security </td> </tr> </table>
