@@ -95,14 +95,14 @@
 ---
 
 ###  GitHub Stats
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=Polycarp29&theme=radical&border_radius=10" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Polycarp29&show_icons=true&theme=radical" height="150"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polycarp29&layout=compact&theme=radical" height="150"/>
-</div>
+</div> -->
 
 ---
 
