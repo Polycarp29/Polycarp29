@@ -94,7 +94,7 @@
 
 ---
 
-###  GitHub Stats
+
 <!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=Polycarp29&theme=radical&border_radius=10" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Polycarp29&show_icons=true&theme=radical" height="150"/>
